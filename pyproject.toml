@@ -27,9 +27,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/file-tools-mcp"
-Repository = "https://github.com/yourusername/file-tools-mcp"
-Issues = "https://github.com/yourusername/file-tools-mcp/issues"
+Homepage = "https://github.com/BumpyClock/file-tools-mcp"
+Repository = "https://github.com/BumpyClock/file-tools-mcp"
+Issues = "https://github.com/BumpyClock/file-tools-mcp/issues"
 
 [project.scripts]
 file-tools-mcp = "main:main"
